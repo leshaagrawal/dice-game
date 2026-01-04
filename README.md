@@ -1,14 +1,17 @@
-🎲 Dice Game — JavaScript Mini Project
+🚀 About the Project
 
-A simple yet interactive Dice Game built using HTML, CSS, and JavaScript.
-This project was created to strengthen my understanding of DOM manipulation, event handling, and basic game logic in JavaScript.
+Dice Game is a simple browser-based game built using HTML, CSS, and JavaScript.
+The goal of this project was to practice JavaScript logic, DOM manipulation, and dynamic UI updates while building something fun and interactive.
 
-Though simple, it demonstrates how core frontend concepts come together to build a functional and engaging user experience.
+🎯 Roll the dice and let JavaScript decide the winner!
 
-🚀 Project Overview
+✨ Features
 
-The Dice Game simulates rolling dice for players and dynamically displays the winner based on the dice values.
-Each refresh or button click generates new random dice values, making the game interactive and fun.
+🎲 Random dice roll
+🏆 Automatic winner declaration
+🔁 New result on every refresh
+📱 Responsive & clean UI
+⚡ Lightweight & fast
 
 🛠️ Tech Stack
 
@@ -16,69 +19,42 @@ HTML5 – Structure
 
 CSS3 – Styling & layout
 
-JavaScript (ES6) – Game logic & DOM manipulation
+JavaScript – Game logic & interactivity
 
-🎯 Features
+🧠 What I Learned
 
-🎲 Random dice roll on refresh / button click
+Generating random numbers using Math.random()
 
-🏆 Displays winner based on dice values
-
-🔁 Dynamic UI updates using JavaScript
-
-📱 Responsive design for all screen sizes
-
-🧠 Beginner-friendly game logic
-
-🧩 How It Works
-
-JavaScript generates random numbers between 1–6
-
-Dice images update dynamically based on the generated values
-
-The game compares both values
-
-The winner (Player 1 / Player 2 / Draw) is displayed instantly
-
-📈 What I Learned
-
-Working with Math.random()
+Updating images and text dynamically
 
 DOM selection & manipulation
 
-Updating UI dynamically
+Writing clean, beginner-friendly JavaScript
 
-Writing clean and readable JavaScript
+🔮 Future Enhancements
 
-Separating structure, style, and logic
+🎮 Roll Dice button
 
-🔮 Future Improvements
-
-🎮 Add a Roll Dice button instead of page refresh
-
-👥 Multiplayer support
+📊 Score counter
 
 🔊 Sound effects
 
-📊 Score tracking system
+⚛️ React version for practice
 
-⚛️ Rebuild using React for practice
-
-📂 Project Setup
+📂 How to Run Locally
 git clone https://github.com/your-username/dice-game.git
 cd dice-game
 open index.html
 
-📄 License
+🌟 Why This Project?
 
-This project is open-source and available under the MIT License.
+This project reflects my learning mindset—starting small, understanding fundamentals, and building interactive applications step by step.
 
 👨‍💻 Author
 
 Lesha Agrawal
-Aspiring Full-Stack Developer | JavaScript & Python Enthusiast
+Aspiring Full-Stack Developer
 
+🔗 More projects coming soon…
 
-🧠 Add interview-ready explanations
-
-🚀 Suggest n
+⭐ If you like this project, don’t
